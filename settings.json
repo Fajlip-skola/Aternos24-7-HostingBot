@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "Fufo_16.aternos.me:44700",
+    "ip": "Fufo_16.aternos.me",
     "port": 44700,
     "version": "",
     "try-creative": false
